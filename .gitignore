@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Log files
+*.csv
+
+# Model weights (optional - uncomment if you don't want to track weights)
+# *.pt
